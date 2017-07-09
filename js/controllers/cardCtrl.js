@@ -1,6 +1,5 @@
 angular.module('app').controller('cardCtrl', function(cardFactory){
 
-
 this.isEditing = false;
 this.editingCard = null;
 
